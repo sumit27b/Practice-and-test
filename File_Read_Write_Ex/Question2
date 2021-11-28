@@ -1,0 +1,6 @@
+Q2. (15 marks)
+Write a program that accepts inspiring quotes from user and append them 
+	to a text file.
+Write another program that reads the text file and create 
+	a ArrayList of all the quotes.
+Iterate though ArrayList and print each quote on console.
