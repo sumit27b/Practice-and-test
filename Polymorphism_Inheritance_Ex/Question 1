@@ -1,0 +1,13 @@
+Q1. (25 marks)
+Suppose that we have to deal with motor vehicles, including cars, trucks, and motorcycles.
+- Every Vehicle has is own Registration Number (String), 
+			Owner(Person) and Number of wheels (Integer)
+- Every Vehicle requires registration_amount and 
+			it is depended on Number of wheels.
+  registration_amount = 5000 * Number of wheels * X
+  Where, X = 12.2 for Car, 10.2 for Truck and 8.2 for motorcycle
+
+Demonstrate use of Inheritance/Polymorphism 
+	in calculating Vehicle registration amount
+Also create List of 5 different Vehicles and display 
+			each vehicle details using iterator 
